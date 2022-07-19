@@ -4,7 +4,7 @@ public class ArgsLastPrinter {
         if(args.length== 0){
             System.out.println("なし");
         }else{
-            System.out.println(string[args.length-1]);
+            System.out.println(String[args.length-1]);
         }
     }
 }
